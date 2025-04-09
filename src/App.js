@@ -186,7 +186,7 @@ function Footer() {
   return (
     <footer className="footer">
       <a
-        href="https://github.com/your-repo-link"
+        href="https://github.com/r-askarov/wordle-clone"
         target="_blank"
         rel="noopener noreferrer"
       >
